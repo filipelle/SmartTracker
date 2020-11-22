@@ -1,6 +1,7 @@
+<img src="http://jacobu.altervista.org/sqlconnect/sito/new_logo.png" width=150><br><br>
 # SmartTracker
 Project for the "Ingegneria del Software" exam 
-<img src="http://jacobu.altervista.org/sqlconnect/sito/new_logo.png" width=150>
+
 
 READ ME
 you can find the map with your positions here:
